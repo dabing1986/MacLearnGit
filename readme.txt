@@ -5,6 +5,6 @@ Git tracks changes of files.
 Create an new branch is quick and simple.
 do sth in for feature01.
 do sth in feature02
-Do some fix
-This is a dev branch coding
-Add another dev branc coding
+Do some fix.
+Test if up steam is not set then can local change still find its related onlie branch
+
